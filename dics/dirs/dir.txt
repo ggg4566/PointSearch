@@ -1,0 +1,5 @@
+/admin
+/manager
+/auth
+/admin/index
+/admin/html

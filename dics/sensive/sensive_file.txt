@@ -1,0 +1,8 @@
+/.svn/entries
+/.git/config
+/.config.php.swn
+/.config.php.swp
+/.config.php.swo
+/.config.inc.php.swn
+/.config.inc.php.swp
+/.config.inc.php.swo
