@@ -75,6 +75,7 @@ py -3 rad_windows_amd64\json_dump_data.py -m 2 -f parse_out\
 py -3 PointSearch.py -l http://test.com -a 4
 ```
 
+<img width="774" alt="image-20221230200305382" src="https://user-images.githubusercontent.com/7532477/210071483-761837dc-3471-4455-bfc2-3b9031b49bbb.png">
 
 
 对于单个目标爬取的结果，可以直接通过json_dump_data.py -k URL 参数提取到文件通过-L参数进行扫描。
